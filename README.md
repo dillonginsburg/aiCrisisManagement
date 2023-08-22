@@ -59,5 +59,3 @@ The long-term vision for this project centers around building autonomous learnin
 
 Thank you for joining me on this early journey of redefining crisis management through AI.
 
----
-*Feel free to adjust the formatting to match your preferred GitHub README style.*
